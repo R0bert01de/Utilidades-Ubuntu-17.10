@@ -1,4 +1,12 @@
+#instalacion
+sudo apt install git-all
+
+#Config
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
 #fork cincronizado
+
 https://www.linuxito.com/programacion/890-como-mantener-tu-fork-sincronizado-con-upstream-en-git
 
 https://www.damianculotta.com.ar/control-de-versiones/como-sincronizar-repositorios-forkeados-con-git/
